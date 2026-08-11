@@ -1,0 +1,23 @@
+ana:
+  nome: Ana Silva
+  email: ana@example.com
+  cidade: São Paulo
+  estado: SP
+  telefone: 5511987654321
+  tags: '["vip", "ouro"]'
+  pedidos_count: 2
+  total_gasto: 15400
+  created_at: <%= 30.days.ago %>
+  updated_at: <%= 30.days.ago %>
+
+carlos:
+  nome: Carlos Pereira
+  email: carlos@example.com
+  cidade: Rio de Janeiro
+  estado: RJ
+  telefone: 5521987654321
+  tags: '["bronze"]'
+  pedidos_count: 1
+  total_gasto: 8900
+  created_at: <%= 20.days.ago %>
+  updated_at: <%= 20.days.ago %>

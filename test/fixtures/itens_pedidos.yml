@@ -1,0 +1,23 @@
+um_pago_ana:
+  pedido: pago_ana
+  produto: camiseta
+  quantidade: 2
+  preco_unitario_centavos: 4950
+  created_at: <%= 25.days.ago %>
+  updated_at: <%= 25.days.ago %>
+
+dois_enviado_ana:
+  pedido: enviado_ana
+  produto: livro
+  quantidade: 1
+  preco_unitario_centavos: 5500
+  created_at: <%= 10.days.ago %>
+  updated_at: <%= 10.days.ago %>
+
+tres_pendente_carlos:
+  pedido: pendente_carlos
+  produto: camiseta
+  quantidade: 1
+  preco_unitario_centavos: 8900
+  created_at: <%= 5.days.ago %>
+  updated_at: <%= 5.days.ago %>

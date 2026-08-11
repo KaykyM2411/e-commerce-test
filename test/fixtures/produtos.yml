@@ -1,0 +1,17 @@
+camiseta:
+  nome: Camiseta Polo Algodão
+  sku: SKU-0000001
+  categoria: Vestuário
+  preco_centavos: 4990
+  estoque: 150
+  created_at: <%= 30.days.ago %>
+  updated_at: <%= 30.days.ago %>
+
+livro:
+  nome: Livro de Ruby Avançado
+  sku: SKU-0000002
+  categoria: Livros
+  preco_centavos: 8990
+  estoque: 42
+  created_at: <%= 30.days.ago %>
+  updated_at: <%= 30.days.ago %>

@@ -1,0 +1,23 @@
+pago_ana:
+  usuario: ana
+  status: pago
+  total_centavos: 9900
+  criado_em: <%= 25.days.ago %>
+  created_at: <%= 25.days.ago %>
+  updated_at: <%= 25.days.ago %>
+
+enviado_ana:
+  usuario: ana
+  status: enviado
+  total_centavos: 5500
+  criado_em: <%= 10.days.ago %>
+  created_at: <%= 10.days.ago %>
+  updated_at: <%= 10.days.ago %>
+
+pendente_carlos:
+  usuario: carlos
+  status: pendente
+  total_centavos: 8900
+  criado_em: <%= 5.days.ago %>
+  created_at: <%= 5.days.ago %>
+  updated_at: <%= 5.days.ago %>
