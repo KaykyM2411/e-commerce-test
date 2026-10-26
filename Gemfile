@@ -13,7 +13,7 @@ gem "puma", ">= 5.0"
 # gem "bcrypt", "~> 3.1.7"
 
 # Datatable/search engine built on top of Active Record
-gem "huginn_datatable", "~> 0.3.0", require: "huginn"
+gem "huginn_datatable", "~> 0.4.0", require: "huginn"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: %i[ windows jruby ]
